@@ -1,7 +1,7 @@
 # Hi, I'm Vaibhav Monpara 👋
 
 **Co-founder & Software Engineer**  
-Turning caffeine, chai, and code into scalable products.
+Turning caffeine, chai, and code into amazing products.
 
 ---
 
@@ -11,7 +11,7 @@ Turning caffeine, chai, and code into scalable products.
 React.js · TypeScript · JavaScript · Tailwind CSS
 
 **Backend:**  
-Node.js · Python · Django · Flask · Express.js · REST/GraphQL APIs
+Node.js · Python · Java · C# · Django · Flask · Express.js · REST/GraphQL APIs
 
 **Databases:**  
 PostgreSQL · DynamoDB · SQL · NoSQL
@@ -20,7 +20,7 @@ PostgreSQL · DynamoDB · SQL · NoSQL
 AWS · Docker · GitHub Actions (CI/CD)
 
 **Tools & Integrations:**  
-Jira · Figma · Slack · Stripe API
+Jira · Figma · Slack
 
 ---
 
