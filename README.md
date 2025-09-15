@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Monpara 👋
 
-**Co-founder & Software Engineer**  
+**Software Engineer**  
 Turning caffeine, chai, and code into amazing products.
 
 ---
