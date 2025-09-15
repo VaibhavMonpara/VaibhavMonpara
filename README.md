@@ -27,7 +27,7 @@ Jira · Figma · Slack
 ## 🚀 Featured Projects
 
 ### AirKitchenz
-_Co-founder & Tech Lead_  
+_Tech Lead_  
 Scalable Airbnb-style marketplace for renting commercial kitchens. Built with AWS, React, Node.js. Led CI/CD, system architecture, and user experience improvements.
 
 ### AI-Powered Recruiting Agent
